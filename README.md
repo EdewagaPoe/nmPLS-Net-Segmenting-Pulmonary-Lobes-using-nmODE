@@ -7,4 +7,4 @@ This is the code for the paper 'nmPLS-Net-Segmenting-Pulmonary-Lobes-using-nmODE
 
 You can modify them if needed.
 
-The /dataset/dataLoader.py is just for the reference, you should change it to your own dataLoader if you want to run your own experiments.
+The dataLoaders in /dataset/dataLoader.py may not suitable for your dataset, you should change it to your own dataLoader if you want to run your own experiments.
