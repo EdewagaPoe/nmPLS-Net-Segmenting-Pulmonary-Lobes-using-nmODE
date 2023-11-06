@@ -1,5 +1,5 @@
 # nmPLS-Net-Segmenting-Pulmonary-Lobes-using-nmODE
-This is the code for the paper 'nmPLS-Net-Segmenting-Pulmonary-Lobes-using-nmODE'
+This is the code for the paper 'nmPLS-Net-Segmenting-Pulmonary-Lobes-using-nmODE'. The full code of model will be uploaded soon.
 
 /train/train.py provides a base train code for the model.
 
